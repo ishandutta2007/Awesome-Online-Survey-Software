@@ -1,50 +1,53 @@
-# Awesome-Online-Survey-Software
+<p align="center">
+  <img src="assets/banner.svg" alt="Awesome Online Survey Software Banner" width="100%" />
+</p>
 
-## Top Online Survey Software Ecosystem
+<p align="center">
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
+  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Survey-Software/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Online-Survey-Software?style=flat-square&color=gold" alt="Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Survey-Software/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Online-Survey-Software?style=flat-square&color=blue" alt="Forks"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Online-Survey-Software/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Online-Survey-Software?style=flat-square&color=green" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
+</p>
 
+# 📊 Awesome Online Survey Software & Form Builders
 
-
-**Curated List of SaaS Products & Open-Source GitHub Projects**  
-
-*Focused on Form Building, Data Collection & Self-Hosted Survey Platforms*  
+> **A curated, SEO-optimized list of top commercial SaaS products and open-source GitHub projects for creating online surveys, building custom forms, self-hosting survey platforms, and conducting data collection & field research.**
 
 **Last updated: October 2026**
 
+---
 
+## 📌 Executive Overview & Market Analysis
 
-This repository tracks notable **commercial survey platforms** and **open-source projects** that help organizations create surveys, collect responses, and analyze data. These tools range from simple form builders to enterprise research platforms with advanced logic, piping, and analytics.
+This repository tracks notable **commercial survey platforms**, **open-source form engines**, and **field data collection tools**. Whether you are looking for simple no-code form builders or enterprise-grade research platforms with complex piping, skip logic, and real-time analytics, this list covers the entire online survey software landscape.
 
+### 📈 Market Size & Sector Structure
 
+**Market Size**: The global online survey software market is valued at approximately **$4.58 Billion – $5.42 Billion in 2025/2026**, projected to grow at a Compound Annual Growth Rate (CAGR) of **14% to 17%**.
 
-**Examples** include Microsoft Forms, SurveyMonkey, Typeform, Google Forms, Qualtrics, Jotform, Alchemer, QuestionPro, Formstack, and SurveyLegend (the category leaders).
+**Sector Structure**: The market is **moderately to highly fragmented**. Rather than a single "winner-take-all" monopoly, the market is split across multi-trillion-dollar office suite platforms (*Microsoft Forms, Google Forms*), enterprise research suites (*Qualtrics, SurveyMonkey*), user experience tools (*Typeform, Formbricks*), and self-hosted open-source software (*LimeSurvey, OpnForm, NocoDB*).
 
+---
 
+## 📑 Table of Contents
 
-**Open-source emphasis**: Online survey software is a strong open-source domain. **LimeSurvey** leads as the most feature-complete open-source survey platform with 25+ years of development. **Formbricks** brings a modern, privacy-first experience platform. **Open Source Forms (OSForms)** offers a clean, self-hosted alternative. **OhMyForm** and **HeyForm** provide developer-friendly form building. This section is heavily expanded.
+- [🏢 Top SaaS & Commercial Survey Platforms](#-top-saas--commercial-survey-platforms)
+- [⚡ Open-Source GitHub Projects (Sorted by Stars)](#-open-source-github-projects-sorted-by-stars)
+- [🛠️ Key Evaluation Criteria for Survey Tools](#%EF%B8%8F-key-evaluation-criteria-for-survey-tools)
+- [🤝 How to Contribute](#-how-to-contribute)
+- [💖 Support & Sponsorship](#-support--sponsorship)
+- [🌟 Star History](#-star-history)
+- [⚠️ Disclaimer](#%EF%B8%8F-disclaimer)
 
+---
 
+## 🏢 Top SaaS & Commercial Survey Platforms
 
-Contributions welcome! Open a PR to add/update entries. Keep descriptions factual and link to official sites.
+Below is a comparative matrix of commercial survey software platforms, sorted by **Company Size / Valuation (Descending)** with exact starting tier prices and free tier limits.
 
-
-
-## Table of Contents
-
-- [SaaS/Hosted Platforms](#saas-hosted-platforms)
-
-- [Open-Source GitHub Projects](#open-source-github-projects)
-
-- [How to Contribute](#how-to-contribute)
-
-- [Disclaimer](#disclaimer)
-
-
-
-## SaaS/Hosted Platforms
-
-**Market Size & Sector Structure**: The global online survey software market is estimated at **$4.58B – $5.42B (2025/2026)** (projected CAGR of ~14%–17%) and is **moderately to highly fragmented**, comprising enterprise tech giants (Microsoft, Google), dedicated research platforms (Qualtrics, SurveyMonkey), and specialized SaaS form builders rather than a winner-take-all market.
-
-| Platform | Company Size (Valuation / Revenue) | Starting Price (Paid Tier) | Free Tier / Free Trial Limits | Description & Best For |
+| Platform | 🏢 Company Size (Valuation / Revenue) | 💵 Starting Price (Paid Tier) | 🎁 Free Tier / Free Trial Limits | 🔍 Description & Best For |
 | :--- | :--- | :--- | :--- | :--- |
 | **[Microsoft Forms](https://forms.microsoft.com/)** | **~$3.2 Trillion** Market Cap (~$245B ARR) | **$7.00 / user / mo** (Included in Microsoft 365 Business Basic) | **Free with Microsoft Account**: Max 200 responses/form, 400 total forms, 200 questions/form | **Free survey tool for Microsoft 365 users** — simple surveys, quizzes, and polls with Excel integration. **Best for Microsoft ecosystem users**. |
 | **[Google Forms](https://forms.google.com/)** | **~$2.1 Trillion** Market Cap (~$307B ARR) | **$0.00 / mo** (100% free standalone; Google Workspace starts at $7.20/user/mo) | **Free Forever**: Unlimited forms and responses (capped only by 15 GB Google Drive storage pool) | **Free, simple survey tool** — unlimited surveys, Google Sheets integration, and real-time collaboration. **The most accessible survey tool**. |
@@ -57,152 +60,115 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 | **[Alchemer](https://www.alchemer.com/)** | **~$30.0 Million** ARR (PE-backed by K1) | **$55.00 / mo** ($660/yr Collaborator annual plan) | **7-Day Free Trial**: Full feature access during trial; no permanent free tier available | **Enterprise survey platform** — advanced logic, reporting, and integrations. **Best for complex enterprise surveys**. |
 | **[SurveyLegend](https://www.surveylegend.com/)** | **~$137.6 Thousand** ARR (Bootstrapped, Private) | **$19.00 / mo** ($228/yr Pro annual plan) | **Starter Free Plan**: 3 active surveys, max 3 response fields per survey, no export options, includes SurveyLegend ads | **Visual survey builder** — image-based questions and mobile-first design. **Best for visual surveys**. |
 
+---
 
+## ⚡ Open-Source GitHub Projects (Sorted by Stars)
 
-## Open-Source GitHub Projects
+Open-source online survey tools offer complete data sovereignty, GDPR compliance, custom self-hosting capabilities, and zero per-response fees.
 
+All open-source repositories below are **sorted in descending order by GitHub Star Count**.
 
+1. 🌟 **[NocoDB](https://github.com/nocodb/nocodb)** <a href="https://github.com/nocodb/nocodb/stargazers"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white" alt="NocoDB stars"/></a>  
+   **Open-source Airtable alternative with form view capabilities** — AGPL-3.0 licensed. Build custom database tables, share public form views, collect survey responses, and automate workflows. **Best for relational survey databases**.
 
-- **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)**  
+2. 🌟 **[Appsmith](https://github.com/appsmithorg/appsmith)** <a href="https://github.com/appsmithorg/appsmith/stargazers"><img src="https://img.shields.io/github/stars/appsmithorg/appsmith?style=social&color=white" alt="Appsmith stars"/></a>  
+   **Open-source low-code internal tool & form platform** — Apache-2.0 licensed. Drag-and-drop form widgets, connect to any database or API, build multi-step survey tools and admin portals. **Best for custom internal survey tools**.
 
-  **The leading open-source survey platform**, GPL-2.0 licensed with **3,000+ GitHub stars** . **25+ years of development** — the most feature-complete open-source survey tool . **Unlimited surveys, questions, and responses** . Features **28+ question types, conditional logic, quotas, assessments, token management, and 80+ languages** . **Self-hosted or cloud** — no per-response fees . **The de facto open-source SurveyMonkey alternative** — used by universities, NGOs, and enterprises worldwide . **Best for organizations wanting full control over survey data** .
+3. 🌟 **[Formbricks](https://github.com/formbricks/formbricks)** <a href="https://github.com/formbricks/formbricks/stargazers"><img src="https://img.shields.io/github/stars/formbricks/formbricks?style=social&color=white" alt="Formbricks stars"/></a>  
+   **Modern open-source experience management & survey platform** — AGPL-3.0 licensed. Features in-app surveys, link surveys, website targeted popups, conditional logic, and GDPR privacy compliance. **The premier modern open-source Typeform/Qualtrics alternative**.
 
+4. 🌟 **[Form.io](https://github.com/formio/formio)** <a href="https://github.com/formio/formio/stargazers"><img src="https://img.shields.io/github/stars/formio/formio?style=social&color=white" alt="Form.io stars"/></a>  
+   **Open-source JSON form builder and data management platform** — MIT licensed. API-first architecture designed to embed complex forms directly into web and mobile apps. **Best for software developers**.
 
+5. 🌟 **[HeyForm](https://github.com/heyform/heyform)** <a href="https://github.com/heyform/heyform/stargazers"><img src="https://img.shields.io/github/stars/heyform/heyform?style=social&color=white" alt="HeyForm stars"/></a>  
+   **Open-source conversational form builder** — AGPL-3.0 licensed. Create engaging, visual, step-by-step surveys inspired by Typeform with logic jumps, payment integrations, and rich media support. **Best for visual interactive forms**.
 
-- **[Formbricks](https://github.com/formbricks/formbricks)**  
+6. 🌟 **[Baserow](https://github.com/baserow/baserow)** <a href="https://github.com/baserow/baserow/stargazers"><img src="https://img.shields.io/github/stars/baserow/baserow?style=social&color=white" alt="Baserow stars"/></a>  
+   **Open-source database with public form views** — MIT licensed. Modular open-source database system allowing teams to build public-facing surveys and automatically populate structured database tables. **Best for structured data collection**.
 
-  **Open-source experience management platform**, AGPL-3.0 licensed with **10,000+ GitHub stars** . **Modern, privacy-first survey and form builder** — beautiful UI, conditional logic, and targeting . Features **in-app surveys, link surveys, website surveys, and email surveys** . **Privacy-first** — GDPR/CCPA compliant with EU hosting . **Self-hosted or cloud** . **The best modern open-source Typeform/Qualtrics alternative** . **Best for product teams wanting user feedback** .
+7. 🌟 **[SurveyJS](https://github.com/surveyjs/survey-library)** <a href="https://github.com/surveyjs/survey-library/stargazers"><img src="https://img.shields.io/github/stars/surveyjs/survey-library?style=social&color=white" alt="SurveyJS stars"/></a>  
+   **Open-source JavaScript survey library & builder framework** — MIT licensed. Integrate 30+ question types, branching logic, and custom components directly into React, Angular, Vue, or vanilla JS applications. **The standard JavaScript survey library**.
 
+8. 🌟 **[LimeSurvey](https://github.com/LimeSurvey/LimeSurvey)** <a href="https://github.com/LimeSurvey/LimeSurvey/stargazers"><img src="https://img.shields.io/github/stars/LimeSurvey/LimeSurvey?style=social&color=white" alt="LimeSurvey stars"/></a>  
+   **The leading open-source survey platform** — GPL-2.0 licensed. 25+ years of active development. Features 28+ question types, advanced conditional logic, quotas, token management, assessments, and 80+ language translations. **The de facto open-source SurveyMonkey alternative**.
 
+9. 🌟 **[OpnForm](https://github.com/OpnForm/OpnForm)** <a href="https://github.com/OpnForm/OpnForm/stargazers"><img src="https://img.shields.io/github/stars/OpnForm/OpnForm?style=social&color=white" alt="OpnForm stars"/></a>  
+   **Open-source form builder built with Laravel & Vue** — AGPL-3.0 licensed. Clean modern UI, AI form generation, webhooks, slack notifications, and custom domain support. **Best for modern self-hosted forms**.
 
-- **[OhMyForm](https://github.com/ohmyform/ohmyform)**  
+10. 🌟 **[TellForm](https://github.com/tellform/tellform)** <a href="https://github.com/tellform/tellform/stargazers"><img src="https://img.shields.io/github/stars/tellform/tellform?style=social&color=white" alt="TellForm stars"/></a>  
+    **Open-source form builder** — MIT licensed. Node.js based form builder with drag-and-drop support, customizable analytics, and custom form branding. **Best for lightweight Node.js form hosting**.
 
-  **Free, open-source form builder**, AGPL-3.0 licensed . **Self-hosted with a modern interface** . Features **drag-and-drop builder, conditional logic, and integrations** . **Best for simple to medium surveys** .
+11. 🌟 **[OhMyForm](https://github.com/ohmyform/ohmyform)** <a href="https://github.com/ohmyform/ohmyform/stargazers"><img src="https://img.shields.io/github/stars/ohmyform/ohmyform?style=social&color=white" alt="OhMyForm stars"/></a>  
+    **Free, open-source form builder** — AGPL-3.0 licensed. Self-hosted form management application designed to create forms, manage responses, and export collected data securely. **Best for privacy-conscious teams**.
 
+12. 🌟 **[Enketo Express](https://github.com/enketo/enketo-express)** <a href="https://github.com/enketo/enketo-express/stargazers"><img src="https://img.shields.io/github/stars/enketo/enketo-express?style=social&color=white" alt="Enketo stars"/></a>  
+    **Open-source web forms for ODK & XLSForm** — Apache-2.0 licensed. Enables offline-capable web survey collection, rendering complex XLSForm specifications smoothly across desktop and mobile web browsers. **Best for web-based field research**.
 
+13. 🌟 **[ODK Collect](https://github.com/getodk/collect)** <a href="https://github.com/getodk/collect/stargazers"><img src="https://img.shields.io/github/stars/getodk/collect?style=social&color=white" alt="ODK Collect stars"/></a>  
+    **Open-source mobile field data collection app** — Apache-2.0 licensed. Standard mobile app for collecting survey responses, GPS coordinates, photos, signatures, and barcodes offline in low-resource environments. **The global standard for field data collection**.
 
-- **[HeyForm](https://github.com/heyform/heyform)**  
+14. 🌟 **[formsflow.ai](https://github.com/AOT-Technologies/forms-flow-ai)** <a href="https://github.com/AOT-Technologies/forms-flow-ai/stargazers"><img src="https://img.shields.io/github/stars/AOT-Technologies/forms-flow-ai?style=social&color=white" alt="formsflow.ai stars"/></a>  
+    **Open-source combined form, workflow & analytics suite** — MIT licensed. Integrates Form.io form building with Camunda workflow orchestration and Redash analytics dashboarding. **Best for enterprise workflow surveys**.
 
-  **Open-source form builder**, AGPL-3.0 licensed with **6,000+ GitHub stars** . **Conversational forms with Typeform-like experience** . Features **logic jumps, payments, and integrations** . **Best for beautiful, conversational surveys** .
+15. 🌟 **[Tutim](https://github.com/tutim-io/tutim)** <a href="https://github.com/tutim-io/tutim/stargazers"><img src="https://img.shields.io/github/stars/tutim-io/tutim?style=social&color=white" alt="Tutim stars"/></a>  
+    **Open-source form builder for developers** — AGPL-3.0 licensed. Headless form infrastructure for building dynamic user onboarding flows, questionnaires, and survey steps in web apps. **Best for web onboarding forms**.
 
+16. 🌟 **[KoboToolbox (KPI)](https://github.com/kobotoolbox/kpi)** <a href="https://github.com/kobotoolbox/kpi/stargazers"><img src="https://img.shields.io/github/stars/kobotoolbox/kpi?style=social&color=white" alt="KoboToolbox KPI stars"/></a>  
+    **Open-source field data collection platform** — GPL-3.0 licensed. Designed for humanitarian organizations, research teams, and NGOs operating in challenging offline environments. **Best for humanitarian research**.
 
-
-- **[Open Source Forms (OSForms)](https://github.com/OSForms)**  
-
-  **Modern, self-hosted survey platform**, AGPL-3.0 licensed . **Clean UI with real-time analytics** . Features **conditional logic, file uploads, and export options** . **Best for teams wanting a modern self-hosted alternative** .
-
-
-
-- **[Form.io](https://github.com/formio/formio)**  
-
-  **Open-source form and data management platform**, MIT licensed . **Form builder with API-driven forms and submissions** . **Best for developers embedding forms in applications** .
-
-
-
-- **[SurveyJS](https://github.com/surveyjs/survey-library)**  
-
-  **Open-source JavaScript survey library**, MIT licensed with **7,000+ GitHub stars** . **Embed surveys in any web application** . Features **30+ question types, conditional logic, and custom components** . **The best library for embedding surveys** . **Best for developers building custom survey tools** .
-
-
-
-- **[TellForm](https://github.com/tellform/tellform)**  
-
-  **Open-source form builder** (fork of OhMyForm) . **Self-hosted with modern interface** . **Best for simple surveys** .
-
-
-
-- **[XLSForm Offline](https://github.com/XLSForm/xlsform-offline)**  
-
-  **Open-source tool for creating surveys in Excel** — converts XLSForm to XForm for ODK, Enketo, and Kobo . **The standard for field surveys** . **Best for humanitarian and field research** .
-
-
-
-- **[Enketo](https://github.com/enketo/enketo-express)**  
-
-  **Open-source web forms for ODK/Kobo** — offline-capable surveys for field data collection . **The standard for offline surveys** . **Best for humanitarian and field data collection** .
-
-
-
-- **[KoboToolbox](https://github.com/kobotoolbox/kobo-install)**  
-
-  **Open-source suite for field data collection** — form builder, data collection, and analysis . **The leading open-source platform for humanitarian surveys** . **Best for NGOs and humanitarian organizations** .
-
-
-
-- **[ODK (Open Data Kit)](https://github.com/getodk)**  
-
-  **Open-source mobile data collection** — offline forms, GPS, photos, and barcodes . **The standard for field surveys in low-resource settings** . **Best for field research and humanitarian data collection** .
-
-
-
-### Additional Strong Open-Source Options
-
-
-
-- **FormBuilder** — Lightweight form builder (various implementations) .
-
-- **Form Tools** — Open-source form processing and data management .
-
-- **phpFormGenerator** — Simple PHP form generator .
-
-- **JotForm Alternative (various)** — Multiple open-source form builders exist .
-
-- **LiberaForms** — Open-source form builder with GDPR focus .
-
-- **Baserow** — Open-source database with form views .
-
-- **NocoDB** — Open-source Airtable alternative with form views .
-
-- **Grist** — Open-source spreadsheet-database with form capabilities .
-
-- **Appsmith** — Open-source low-code platform with form building .
-
-- **ToolJet** — Open-source low-code platform with form building .
-
-
-
-**Frameworks for building custom survey solutions**: Combine **LimeSurvey** for the most feature-complete open-source survey platform . Use **Formbricks** for modern, privacy-first experience management . Choose **HeyForm** for beautiful conversational surveys . Deploy **SurveyJS** for embedding surveys in applications . Use **KoboToolbox** or **ODK** for field data collection . Note that true enterprise research platforms with advanced analytics, quotas, and panel management (Qualtrics, Alchemer) remain primarily commercial territory; open-source stacks provide strong form building, data collection, and self-hosted survey foundations that require configuration for complete survey workflows.
-
-
-
-## How to Contribute
-
-
-
-1. Fork the repo.
-
-2. Add/edit entries in `README.md` (follow existing format).
-
-3. Include: name, link, 1–2 sentence description, and whether it's SaaS or open-source.
-
-4. Submit PR with a short explanation.
-
-
-
-Star the repo if you find it useful!
-
-
-
-## Disclaimer
-
-
-
-- This is a **community-curated** list — not exhaustive and not an endorsement.
-
-- Survey platforms collect potentially sensitive personal data. Self-hosted solutions require proper security hardening, access controls, and compliance with data privacy regulations (GDPR, CCPA, HIPAA).
-
-- **Open-source survey tools vary in maturity** — LimeSurvey is production-ready with 25+ years of development; newer tools like Formbricks and HeyForm are actively developed . Evaluate feature requirements before deployment.
-
-- **Survey design matters more than tooling** — question wording, order, and response options affect data quality regardless of platform .
-
-- The open-source ecosystem provides strong form building, data collection, and self-hosted survey foundations, but **advanced analytics, panel management, and vendor-supported SLAs** remain primarily commercial offerings.
-
-
+17. 🌟 **[XLSForm Offline](https://github.com/XLSForm/xlsform-offline)** <a href="https://github.com/XLSForm/xlsform-offline/stargazers"><img src="https://img.shields.io/github/stars/XLSForm/xlsform-offline?style=social&color=white" alt="XLSForm Offline stars"/></a>  
+    **Open-source XLSForm converter utility** — MIT licensed. Convert Excel-based survey definitions into standard XML formats for ODK, Enketo, and KoboToolbox offline collection engines. **Best for Excel-designed field surveys**.
 
 ---
 
+## 🛠️ Key Evaluation Criteria for Survey Tools
 
+When choosing between commercial SaaS platforms and self-hosted open-source software, consider the following technical parameters:
 
-**Made for researchers, product managers, HR teams, and organizations seeking survey sovereignty.**  
+- **🔒 Data Sovereignty & GDPR Compliance**: Enterprise and healthcare organizations often require full control over survey data (self-hosted options like **LimeSurvey** or **Formbricks**).
+- **🔀 Logic Jumps & Piping**: Complex surveys require branching logic, dynamic variable piping, quota controls, and answer randomized matrices (**Qualtrics**, **LimeSurvey**, **SurveyMonkey**).
+- **📴 Offline Collection Capability**: Field teams in remote regions need offline mobile storage, photo captures, and GPS tags (**ODK Collect**, **Enketo**, **KoboToolbox**).
+- **🎨 User Experience & Conversational Flow**: High consumer engagement requires modern step-by-step interactive forms (**Typeform**, **HeyForm**, **OpnForm**).
 
-Let's make online survey software more open, transparent, and accessible.
+---
+
+## 🤝 How to Contribute
+
+Contributions are warmly welcomed! Help us keep this list up to date with the latest survey tools and open-source form engines.
+
+1. 🍴 **Fork the repository**
+2. 📝 **Add or update an entry** in `README.md` (maintain exact markdown table or star badge layout)
+3. 🔎 **Provide accurate details**: Name, homepage/repo link, description, pricing, and free tier limits
+4. 📬 **Submit a Pull Request** with a brief summary of additions
+
+Check out [Awesome-Awesome-Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome) for more curated lists!
+
+---
+
+## 💖 Support & Sponsorship
+
+If you find this survey software directory helpful, please consider supporting the project! Your encouragement helps keep this resource updated, accurate, and comprehensive for researchers, developers, and product teams worldwide.
+
+- ⭐️ **Star this repository** on GitHub to increase visibility
+- 🔀 **Fork & Share** with your colleagues and research network
+- ☕ **Buy me a coffee / Sponsor**: Support ongoing maintenance on the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007)
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007">
+    <img src="https://img.shields.io/badge/Sponsor-Sponsor%20me%20on%20GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor on GitHub" />
+  </a>
+</p>
+
+---
+
+## 🌟 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Online-Survey-Software&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Online-Survey-Software&type=date&legend=top-left)
+
+---
+
+## ⚠️ Disclaimer
+
+- This repository is a **community-curated informational directory** and does not constitute formal financial, legal, or enterprise purchasing endorsement.
+- Product pricing, features, and limits are subject to change by vendors over time. Always consult official vendor websites for final pricing details.
+- Survey software handles sensitive personal data (PII). Ensure proper security configuration, data encryption, and legal compliance (GDPR, CCPA, HIPAA) when deploying self-hosted or SaaS survey platforms.
