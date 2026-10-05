@@ -42,65 +42,20 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## SaaS/Hosted Platforms
 
+**Market Size & Sector Structure**: The global online survey software market is estimated at **$4.58B – $5.42B (2025/2026)** (projected CAGR of ~14%–17%) and is **moderately to highly fragmented**, comprising enterprise tech giants (Microsoft, Google), dedicated research platforms (Qualtrics, SurveyMonkey), and specialized SaaS form builders rather than a winner-take-all market.
 
-
-- **[Microsoft Forms](https://forms.microsoft.com/)**  
-
-  **Free survey tool for Microsoft 365 users** — simple surveys, quizzes, and polls with Excel integration. **Free with Microsoft account** . **Best for Microsoft ecosystem users** .
-
-
-
-- **[SurveyMonkey](https://www.surveymonkey.com/)**  
-
-  **The most widely used survey platform** — extensive question types, logic, and analytics. **Free tier with limits**; paid from $25/month. **The reference for survey software** .
-
-
-
-- **[Typeform](https://www.typeform.com/)**  
-
-  **The best-designed survey experience** — conversational forms, beautiful templates, and high completion rates. **Free tier available**; paid from $25/month. **Best for engaging, brand-aligned surveys** .
-
-
-
-- **[Google Forms](https://forms.google.com/)**  
-
-  **Free, simple survey tool** — unlimited surveys, Google Sheets integration, and real-time collaboration. **Free with Google account** . **The most accessible survey tool** .
-
-
-
-- **[Qualtrics](https://www.qualtrics.com/)**  
-
-  **The enterprise research standard** — advanced logic, piping, quotas, and analytics. **Enterprise pricing only** . **Best for academic and enterprise research** .
-
-
-
-- **[Jotform](https://www.jotform.com/)**  
-
-  **Form builder with 10,000+ templates** — payments, conditional logic, and integrations. **Free tier available**; paid from $24/month. **Best for diverse form needs** .
-
-
-
-- **[Alchemer](https://www.alchemer.com/)**  
-
-  **Enterprise survey platform** — advanced logic, reporting, and integrations. **Paid only** . **Best for complex enterprise surveys** .
-
-
-
-- **[QuestionPro](https://www.questionpro.com/)**  
-
-  **Survey platform with research-grade features** — advanced analytics, polling, and offline surveys. **Free tier available**; paid from $99/month. **Best for academic research** .
-
-
-
-- **[Formstack](https://www.formstack.com/)**  
-
-  **Form builder with workflow automation** — document generation, payments, and integrations. **Paid only** . **Best for business process automation** .
-
-
-
-- **[SurveyLegend](https://www.surveylegend.com/)**  
-
-  **Visual survey builder** — image-based questions and mobile-first design. **Free tier available**; paid from $19/month. **Best for visual surveys** .
+| Platform | Company Size (Valuation / Revenue) | Starting Price (Paid Tier) | Free Tier / Free Trial Limits | Description & Best For |
+| :--- | :--- | :--- | :--- | :--- |
+| **[Microsoft Forms](https://forms.microsoft.com/)** | **~$3.2 Trillion** Market Cap (~$245B ARR) | **$7.00 / user / mo** (Included in Microsoft 365 Business Basic) | **Free with Microsoft Account**: Max 200 responses/form, 400 total forms, 200 questions/form | **Free survey tool for Microsoft 365 users** — simple surveys, quizzes, and polls with Excel integration. **Best for Microsoft ecosystem users**. |
+| **[Google Forms](https://forms.google.com/)** | **~$2.1 Trillion** Market Cap (~$307B ARR) | **$0.00 / mo** (100% free standalone; Google Workspace starts at $7.20/user/mo) | **Free Forever**: Unlimited forms and responses (capped only by 15 GB Google Drive storage pool) | **Free, simple survey tool** — unlimited surveys, Google Sheets integration, and real-time collaboration. **The most accessible survey tool**. |
+| **[Qualtrics](https://www.qualtrics.com/)** | **$12.5 Billion** Valuation (~$1.5B ARR) | **$420.00 / mo** ($5,040/yr billed annually for Strategic Research; Enterprise $25k+/yr) | **30-Day Free Trial**; permanent Free Account limited to 3 active surveys, 30 questions/survey, and 500 total responses | **The enterprise research standard** — advanced logic, piping, quotas, and analytics. **Best for academic and enterprise research**. |
+| **[SurveyMonkey](https://www.surveymonkey.com/)** | **$1.5 Billion** Valuation (~$480M ARR) | **$39.00 / mo** ($468/yr Advantage annual plan; Team plans $30/user/mo) | **Free Basic Plan**: Max 10 questions per survey and 40 viewable responses per survey (no CSV exports) | **The most widely used survey platform** — extensive question types, logic, and analytics. **The reference for survey software**. |
+| **[Typeform](https://www.typeform.com/)** | **~$1.0 Billion** Valuation (~$140M–$200M ARR) | **$25.00 / mo** ($300/yr Basic annual plan) | **Free Account**: Capped at 10 responses per month across all forms and 1 user seat | **The best-designed survey experience** — conversational forms, beautiful templates, and high completion rates. **Best for engaging, brand-aligned surveys**. |
+| **[Jotform](https://www.jotform.com/)** | **~$145 Million** ARR (Bootstrapped, ~$700M–$1B Est. Valuation) | **$34.00 / mo** ($408/yr Bronze annual plan) | **Starter Free Plan**: Max 5 active forms, 100 monthly submissions, 500 total submission storage, 100 MB file space | **Form builder with 10,000+ templates** — payments, conditional logic, and integrations. **Best for diverse form needs**. |
+| **[QuestionPro](https://www.questionpro.com/)** | **~$56.4 Million** ARR (Bootstrapped, Private) | **$99.00 / mo** ($1,188/yr Advanced annual plan) | **Essentials Free Plan**: Max 200 responses per survey, 30 questions per survey, basic branching logic | **Survey platform with research-grade features** — advanced analytics, polling, and offline surveys. **Best for academic research**. |
+| **[Formstack](https://www.formstack.com/)** | **~$35.6 Million** ARR (Private, PE-backed) | **$50.00 / mo** ($600/yr Forms annual plan) | **14-Day Free Trial**: Full feature access during trial; no permanent free tier available | **Form builder with workflow automation** — document generation, payments, and integrations. **Best for business process automation**. |
+| **[Alchemer](https://www.alchemer.com/)** | **~$30.0 Million** ARR (PE-backed by K1) | **$55.00 / mo** ($660/yr Collaborator annual plan) | **7-Day Free Trial**: Full feature access during trial; no permanent free tier available | **Enterprise survey platform** — advanced logic, reporting, and integrations. **Best for complex enterprise surveys**. |
+| **[SurveyLegend](https://www.surveylegend.com/)** | **~$137.6 Thousand** ARR (Bootstrapped, Private) | **$19.00 / mo** ($228/yr Pro annual plan) | **Starter Free Plan**: 3 active surveys, max 3 response fields per survey, no export options, includes SurveyLegend ads | **Visual survey builder** — image-based questions and mobile-first design. **Best for visual surveys**. |
 
 
 
