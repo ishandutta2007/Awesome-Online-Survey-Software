@@ -66,7 +66,7 @@ Below is a comparative matrix of commercial survey software platforms, sorted by
 
 Open-source online survey tools offer complete data sovereignty, GDPR compliance, custom self-hosting capabilities, and zero per-response fees.
 
-All open-source repositories below are **sorted in descending order by GitHub Star Count**.
+All open-source repositories below are **sorted in descending order by GitHub Stars_Count**.
 
 1. 🌟 **[NocoDB](https://github.com/nocodb/nocodb)** <a href="https://github.com/nocodb/nocodb/stargazers"><img src="https://img.shields.io/github/stars/nocodb/nocodb?style=social&color=white" alt="NocoDB stars"/></a>  
    **Open-source Airtable alternative with form view capabilities** — AGPL-3.0 licensed. Build custom database tables, share public form views, collect survey responses, and automate workflows. **Best for relational survey databases**.
@@ -137,7 +137,7 @@ When choosing between commercial SaaS platforms and self-hosted open-source soft
 Contributions are warmly welcomed! Help us keep this list up to date with the latest survey tools and open-source form engines.
 
 1. 🍴 **Fork the repository**
-2. 📝 **Add or update an entry** in `README.md` (maintain exact markdown table or star badge layout)
+2. 📝 **Add or update an entry** in `README.md` (maintain exact markdown table or Stars_Badge layout)
 3. 🔎 **Provide accurate details**: Name, homepage/repo link, description, pricing, and free tier limits
 4. 📬 **Submit a Pull Request** with a brief summary of additions
 
